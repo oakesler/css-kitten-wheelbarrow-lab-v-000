@@ -41,7 +41,7 @@
 /*__write_selector_here__*/ 
 /*__img[alt = "Kitty 5"]  __*/ 
 
-img[alt = "Kitty 5"] {
+img[Kitty 5] {
   position: absolute;
   z-index: 3;
   top: 217px;
